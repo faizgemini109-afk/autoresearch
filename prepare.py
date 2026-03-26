@@ -9,6 +9,8 @@ Usage:
 Data and tokenizer are stored in ~/.cache/autoresearch/.
 """
 
+import utils.transport
+import utils.session
 import os
 import sys
 import time
